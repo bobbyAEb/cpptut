@@ -1,0 +1,16 @@
+typedef struct LIST *PLIST;
+typedef void *ADT;
+typedef const void *CADT;
+typedef int (*COMPARE_OBJECT)(CADT e1, CADT e2);
+typedef void (*DESTROY_OBJECT)(ADT e);
+typedef void (*MANIPULATE_OBJECT)(ADT e, CADT tag);
+PLIST LlCreate();
+void LlDestroy(PLIST list, DESTROY_OBJECT destroy);
+void LlAppend(PLIST list, ADT object);
+void LlInsert(PLIST list, ADT object, unsigned int pos);
+void LlDelete(PLIST list, unsigned int pos, DESTROY_OBJECT destroy);
+void LlClear(PLIST list, DESTROY_OBJECT destroy);
+void LlTraverse(PLIST list, MANIPULATE_OBJECT manipulate, CADT tag);
+bool LlSearch(PLIST list, ADT object, COMPARE_OBJECT compare);
+unsigned int LlGetCount(PLIST list);
+bool LlIsEmpty(PLIST list);
