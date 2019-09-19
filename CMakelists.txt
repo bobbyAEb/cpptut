@@ -1,2 +1,0 @@
-message(STATUS)
-add_executable()
