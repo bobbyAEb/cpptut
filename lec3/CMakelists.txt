@@ -1,0 +1,4 @@
+project(lec3)
+cmake_minimum_required(VERSION 3.0)
+message(STATUS "pwd: ${PROJECT_SOURCE_DIR}")
+add_subdirectory(${PROJECT_SOURCE_DIR}/src)
