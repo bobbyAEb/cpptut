@@ -6,3 +6,7 @@
 
 #IncludeRegexTransform: 
 
+/home/yw/slam/cpp/lec3/src/test.cpp
+iostream
+-
+
