@@ -1,6 +1,4 @@
 #pragma once
-#include<iostream>
+#include <iostream>
 
-void PrintHello() {
-    std::cout<<"hello world"<<std::endl;
-}
+void PrintHello();

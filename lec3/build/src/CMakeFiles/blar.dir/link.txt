@@ -1,0 +1,2 @@
+/usr/bin/ar qc libblar.a  CMakeFiles/blar.dir/blar.cpp.o
+/usr/bin/ranlib libblar.a
