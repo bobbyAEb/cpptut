@@ -23,3 +23,8 @@
   - 对外接口
   - 数据类型
 - 算法实现细节
+
+# A Novel Texture-Less Object Oriented Visual SLAM System
+\cite{Dong2019}
+
+

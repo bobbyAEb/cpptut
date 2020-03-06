@@ -1,0 +1,10 @@
+- discrete pose prediction for  robust pose estimation
+- humans are good at comparation. By comparing the world in the mind and current environment, we can easily inference how our head moves. Also, the Vestibular system acts as a another motion perception module, like catching the gravity. It works like a IMU.
+- what is meaning for SLAM.
+- first test the SOTA with different dataset groundtruth to see whether those SOTA have discrete constrains for pose estimation.
+  - if not, add it by use of the prenet, as a optimization constrain to guide the pose estimation towards the right direction(gradient descent?) 
+  - scene flow
+  - vanishing points based interpolation
+  -  and see the result
+  - if so, see the performance and risk evaluation
+     -  lane moving as the reference
