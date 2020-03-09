@@ -2,9 +2,6 @@
 爱奇艺、腾讯、优酷、芒果TV等可以看大部分电影电视剧，但是需要会员，因此
 在这里给出几个视频站VIP视频解析，VIP视频全部免费看
 
-搜搜爱看-VIP解析 http://v.sosoik.top/v/s?url=https://www.iqiyi.com/v_19rr575vxk.html
-kiwi解析 http://www.kiwi8.top/mov/s?url=https://www.iqiyi.com/v_19rvw3b3q4.html?vfrm=pcw_home&vfrmblk=B&vfrmrst=fcs_0_p11
-PS：安装油猴脚本后追剧使用更方便
 
 ######网盘资源######
 小昭 https://www.xiaozhaolaila.com/

@@ -28,3 +28,7 @@
 \cite{Dong2019}
 
 
+# Active Camera Relocalization from a Single Reference Image without Hand-Eye Calibration
+\cite{Tian2018}
+
+Given a reference camera image, actively change the rotation and translation to reduce the relative transformation matrix bewteen the currently captured image and the reference. The algorithm is straightforward. After computing the relative pose using 5-point algorithm, then separately compute the new rotational and translational pose based on the inverse of the relative pose. repeat until converge. It also proved that this algorithm will converge.
