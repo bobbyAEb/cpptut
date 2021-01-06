@@ -1,5 +1,0 @@
-/home/yw/slam/cpp/ceres/build/CMakeFiles/rebuild_cache.dir
-/home/yw/slam/cpp/ceres/build/CMakeFiles/edit_cache.dir
-/home/yw/slam/cpp/ceres/build/CMakeFiles/powell.dir
-/home/yw/slam/cpp/ceres/build/CMakeFiles/helloworld.dir
-/home/yw/slam/cpp/ceres/build/CMakeFiles/helloworld_anlytic.dir
